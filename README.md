@@ -1,6 +1,6 @@
 
 
-<h1 align="center">DARK NERO<br></h1>
+<h1 align="center">✫ ✫ ✫𝙳𝙰𝚁𝙺 𝙽𝙴𝚁𝙾✫ ✫ ✫<br></h1>
 <p align="center">
 <img src="https://i.ibb.co/5LT7brL/Whats-App-Image-2022-07-19-at-1-07-23-PM.jpg" alt="Whats-App-Image-2022-07-19-at-1-07-23-PM" border="0">
  
@@ -40,31 +40,25 @@ Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://
 <a href="https://wa.me/94774579505"><img src="https://img.shields.io/badge/Contact Xeon-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://chat.whatsapp.com/GkAmtuJ4jFE6axiNjoSiCX"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
+<img src="https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966" alt="nz" width="600"/>
 
- ╔═════ೋೋ═════╗
+## 
 
-DARK NERO NEW UPDATE 
+//```DARK NERO NEW UPDATE```// 
 
-2022 08 03 
-
-
-THENX FROM  
+       2022 08 03 
 
 
-  vihanga & kumuthu
-    
-   pramu & amra
+-THENX FROM = vihanga & kumuthu    pramu & amra
 
 
-  𝙱𝙾𝚃 cricating by
+ -𝙱𝙾𝚃 cricating = 𝙺𝙰𝚅𝙴𝙴𝚂𝙷𝙰
 
-
- 𝙺𝙰𝚅𝙴𝙴𝚂𝙷𝙰
-
-╚═══❖•ೋ° °ೋ•❖═══╝
+<img src="https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966" alt="nz" width="600"/>
 
 
 
+    [`𝙱𝙾𝚃 cricating = 𝙺𝙰𝚅𝙴𝙴𝚂𝙷𝙰)
 
 
 
@@ -151,8 +145,8 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/DGXeon/CheemsBot-MD4
-cd CheemsBot-MD
+git clone https://github.com/DGXeon/NeroBot-MD4
+cd NeroBot-MD
 npm start
 ```
 ## `For VPS`
@@ -163,11 +157,12 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagrmagick
 apt install bash
-git clone https://github.com/DGXeon/CheemsBot-MD4
-cd CheemsBot-MD4
+git clone https://github.com/DGXeon/NeroBot-MD4
+cd DarkNero-MD2
 npm start
 ```
 ## `For 24/7 Activation (Termux)`
 ```bash
 npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 ```
+<img src="https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966" alt="nz" width="600"/>
